@@ -1,0 +1,26 @@
+# Ignore the virtual environment  
+venv/
+
+# Ignore compiled Python files  
+__pycache__/  
+*.pyc  
+*.pyo  
+*.pyd  
+
+# Ignore logs and temporary files  
+logs/  
+*.log  
+*.tmp  
+
+# Ignore system-specific files    
+Thumbs.db
+
+# Ignore environment and configuration files  
+.env  
+config.json  
+
+# Ignore API keys 
+*.token  
+*.key  
+
+  

@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+newspaper3k
+nltk
+spacy
+textblob
+gtts
+gradio
+flask
